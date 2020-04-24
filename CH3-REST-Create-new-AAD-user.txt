@@ -1,0 +1,12 @@
+POST https://graph.microsoft.com/v1.0/users
+Content-type: application/json
+{
+  "accountEnabled": true,
+  "displayName": "Contoso User 1",
+  "mailNickname": "user1",
+  "userPrincipalName": "user1@contosoinc.onmicrosoft.com",
+  "passwordProfile" : {
+    "forceChangePasswordNextSignIn": true,
+    "password": "ContosoUserPassword"
+  }
+}
