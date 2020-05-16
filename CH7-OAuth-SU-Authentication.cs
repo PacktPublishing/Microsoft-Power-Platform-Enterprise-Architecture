@@ -28,7 +28,6 @@ static void Main(string[] args)
         HttpResponseMessage response = client.SendAsync(request).Result;
         if (response.IsSuccessStatusCode)
         {
-            //Get the response content and parse it. 
             JObject body = JObject.Parse(response.Content.ReadAsStringAsync().Result);
             Guid userId = (Guid)body["UserId"];
             Console.WriteLine("Your userid = {0}", userId);
