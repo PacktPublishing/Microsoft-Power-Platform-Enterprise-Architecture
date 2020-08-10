@@ -1,2 +1,2 @@
-# Hands-On-Enterprise-Architecture-with-Microsoft-Power-Platform
-Hands-On Enterprise Architecture with Microsoft Power Platform, Published by Packt
+# Microsoft Power Platform Enterprise Architecture
+Microsoft Power Platform Enterprise Architecture, Published by Packt
