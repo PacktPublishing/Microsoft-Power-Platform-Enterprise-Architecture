@@ -40,6 +40,10 @@ This book is for enterprise architects and technical decision makers who want to
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800204577_ColorImages.pdf).
 
+## Errata
+
+* Page no. 242: The line "The organization must, in addition, implement the **Active Directory Federation Service (ADSF)** to perform full authentication in the active directory." must read as "The organization must, in addition, implement the **Active Directory Federation Service (ADFS)** to perform full authentication in the active directory."
+
 ### Related products
 * Workflow Automation with Microsoft Power Automate [[Packt]](https://www.packtpub.com/product/workflow-automation-with-microsoft-power-automate/9781839213793?utm_source=github&utm_medium=repository&utm_campaign=9781839213793) [[Amazon]](https://www.amazon.com/dp/1839213795)
 
