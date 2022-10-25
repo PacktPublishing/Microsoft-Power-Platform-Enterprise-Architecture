@@ -55,3 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 is a Microsoft Power Platform and Microsoft Dynamics 365 architect and certified trainer. He also holds several other certifications in Microsoft 365, Microsoft Azure, Microsoft SQL Server, and Microsoft BizTalk Server, TOGAF 9, ITIL 2011, IBM, and Oracle.
 Robert has worked as an architect for the Microsoft Corporation on numerous Microsoft Dynamics 365 presale and project implementation activities for enterprise customers across Europe.
 He is now a freelance architect and trainer, implementing Microsoft Dynamics 365 solutions for global customers, and leads many Microsoft Power Platform training sessions.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800204577">https://packt.link/free-ebook/9781800204577 </a> </p>
